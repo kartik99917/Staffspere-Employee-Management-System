@@ -1,49 +1,84 @@
-StaffSphere Employee Management System
+StaffSphere – Employee Management System
 
 Overview
 
-StaffSphere is a comprehensive Employee Management System designed to streamline HR operations, enhance workforce management, and improve organizational efficiency. It provides a user-friendly platform for managing employee records, attendance, payroll, and performance evaluations.
-Features
+StaffSphere is a full-stack Employee Management System built to simplify and automate essential Human Resource (HR) operations. It provides a secure, scalable, and user-friendly platform for managing employee information, attendance, payroll, leave requests, and performance records from a centralized dashboard.
 
-✅ Employee Data Management – Store and manage employee details securely.
-✅ Attendance Tracking – Monitor employee attendance and working hours.
-✅ Payroll Processing – Automate salary calculations and tax deductions.
-✅ Leave Management – Handle leave requests and approvals efficiently.
-✅ Performance Evaluation – Track employee performance and generate reports.
-✅ Secure Authentication – Ensure data security with user roles and permissions.
-Technologies Used
+Key Features
 
-Frontend: React.js
-Backend: Java (Spring Boot)
-Database: MySQL
-Development Tools: IntelliJ IDEA, Node.js
+✅ Employee Management – Create, update, and maintain employee records securely.
+✅ Attendance Tracking – Record attendance, monitor working hours, and maintain attendance history.
+✅ Payroll Management – Automate salary calculations, deductions, and payroll generation.
+✅ Leave Management – Process leave applications with approval and tracking workflows.
+✅ Performance Monitoring – Evaluate employee performance and generate analytical reports.
+✅ Role-Based Authentication – Secure access through user roles and permission-based authorization.
+✅ Department Management – Organize employees across departments for efficient administration.
+✅ Dashboard & Reports – Access real-time insights and workforce statistics.
 
-Installation Guide:
+Technology Stack
 
-Clone the Repository
+Layer	Technology
+Frontend	React.js
+Backend	Java Spring Boot
+Database	MySQL
+Development Tools	IntelliJ IDEA, Node.js
+
+Installation
+
+1. Clone the Repository
+
 git clone https://github.com/your-repo/staffsphere.git
 cd staffsphere
-Backend Setup
-Install Java and MySQL
-Configure database connection in application.properties
-Run the Spring Boot server
-Frontend Setup
-Install dependencies
-npm install
-Start the React development server
-npm start
-Usage
 
-Admin Panel: Manage employees, departments, and payroll.
-Employee Dashboard: View personal details, attendance, and payslips.
-HR Module: Handle recruitment, leave approvals, and performance tracking.
+2. Backend Setup
+
+* Install Java (JDK 17 or later) and MySQL.
+* Create the required MySQL database.
+* Configure the database credentials in application.properties.
+* Start the Spring Boot application.
+
+3. Frontend Setup
+
+npm install
+npm start
+
+The React application will launch locally after the development server starts.
+
+System Modules
+
+Admin Portal
+
+* Manage employees and departments.
+* Process payroll.
+* Monitor attendance.
+* Generate reports.
+
+Employee Portal
+
+* View personal profile.
+* Check attendance records.
+* Access payslips.
+* Submit and track leave requests.
+
+HR Portal
+
+* Manage employee records.
+* Review and approve leave applications.
+* Monitor employee performance.
+* Maintain organizational workforce data.
+
 Contributing
 
-Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests.
+Contributions are welcome. Feel free to fork the repository, open issues, and submit pull requests to improve StaffSphere.
+
 License
 
 This project is licensed under the MIT License.
 
-Let me know if you need any modifications!
+⸻
 
-Will be modified by Ark Saraf/ Me (Kartik Gawade) 🎉🥱
+Developed By
+
+Ark Saraf & Kartik Gawade
+
+StaffSphere is an academic full-stack Employee Management System developed to demonstrate modern web development practices using React.js, Spring Boot, and MySQL.
