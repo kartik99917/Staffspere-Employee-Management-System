@@ -6,6 +6,7 @@ StaffSphere is a comprehensive Employee Management System designed to streamline
 Features
 
 ✅ Employee Data Management – Store and manage employee details securely.
+✅ Employee Data Management – Store and manage employee details securely.
 ✅ Attendance Tracking – Monitor employee attendance and working hours.
 ✅ Payroll Processing – Automate salary calculations and tax deductions.
 ✅ Leave Management – Handle leave requests and approvals efficiently.
