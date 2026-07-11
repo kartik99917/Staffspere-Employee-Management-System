@@ -2,6 +2,7 @@ StaffSphere – Employee Management System
 
 Overview
 
+StaffSphere is a full-stack Employee Management System built to simplify and automate essential Human Resource (HR) operations. It provides a secure, scalable, and user-friendly platform for managing employee information, attendance, payroll, leave requests, and performance records from a centralized dashboard.
 
 Key Features
 
